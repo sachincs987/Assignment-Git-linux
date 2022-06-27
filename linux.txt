@@ -8,8 +8,8 @@ Command       Syntax               Usage
 
 4) cd        cd path_to_directory   change the current working directory
 
-5) cd ..      cd ..                 change to the parent directory of the working 
-											   directory
+5) cd ..      cd ..                 change to the parent directory of the working directory
+											   
 6) cd .       cd .                  represent to the current directory
 
 7) ls        ls                     list the files and directories inside the 
