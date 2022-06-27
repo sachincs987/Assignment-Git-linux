@@ -1,5 +1,48 @@
-1. pwd - Print working directory -as it will show which directory currently you are workin with
-2. whoami - it will show the username of the system
-3. cd, cd .., cd directory - change directory - it will chaange to directory you want to
-4. ls - it will list all your files on the directory which you are in
-5. mkdir - make directory - it will create new directory
+Command       Syntax               Usage                    
+       
+1) pwd        pwd                   print the working directory
+
+2) whoami    whoami                 print the username of the logged in user
+
+3) mkdir     mkdir dir_name         create a directory with the name 'dir_name'
+
+4) cd        cd path_to_directory   change the current working directory
+
+5) cd ..      cd ..                 change to the parent directory of the working 
+											   directory
+6) cd .       cd .                  represent to the current directory
+
+7) ls        ls                     list the files and directories inside the 
+                                    current working directory
+
+8) rmdir    rmdir directory_name    It will remove only empty directory
+
+9) touch    touch filename         It will create a file with the name specified
+
+10) rm      rm filename           It will remove the specified file
+
+11) rm      rm -R dir_name        remove the specified directory
+
+12) cp      cp path1/file1 path2  copy file1 from path1 to path2    
+
+13) mv      mv path1/file1 path2  move file1 from path1 to path2
+                                  also renames a file
+
+14) cat     cat filename          show the content of the specified file on the console  
+     
+15) cat     cat > filename        This will open the file in writing mode and it will
+				  overwrite the existing content
+
+16) cat     cat >> filename       This will append the new content with the existing old content
+
+
+17) nano    nano filename         This opens the file for writing 
+				  ctrl + o - save out the file and prompt for the filename
+			          press enter 
+                                  ctrl + x   to exit from nano editor
+
+18) vi      vi filename           This opens the file for writing
+				  press 'i' for insert mode
+                                  write the contents
+                                  press esc to come out of insert mode
+                                  press :wq to save and quit
