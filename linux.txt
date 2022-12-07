@@ -48,3 +48,16 @@ Command       Syntax               Usage
                                   press :wq to save and quit
 				  
 19) ls -a          ----                     list the file with hidden ones
+
+
+
+
+
+
+
+
+
+
+
+
+github webhook - add jenkins secrets from user credintials from the top right
