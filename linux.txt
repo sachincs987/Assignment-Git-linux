@@ -47,4 +47,4 @@ Command       Syntax               Usage
                                   press esc to come out of insert mode
                                   press :wq to save and quit
 				  
-19) ls -a                         list the file with hidden ones
+19) ls -a          ----                     list the file with hidden ones
